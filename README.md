@@ -3,11 +3,6 @@
 <div style="display: inline_block">
 I'm a Science & Technology and Computer Science student, passionate about continuous learning in new technologies and languages
 
-## Contact me!
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiza-brittes-barros/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luizabrittesbarros@gmail.com)
-
 ## Programing languages
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -19,13 +14,19 @@ I'm a Science & Technology and Computer Science student, passionate about contin
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brittesz&layout=compact)
+
 ## Operational systems 🐱‍💻
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![MacOs](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
 
+## Contact me!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brittesz&layout=compact)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiza-brittes-barros/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luizabrittesbarros@gmail.com)
+
+
 </div>
 
 
