@@ -1,6 +1,7 @@
 #### Hi, I'm Luiza Brittes Barros! ✨
 
 <div style="display: inline_block">
+I'm a Science & Technology and Computer Science student, passionate about continuous learning in new technologies and languages
 
 ## Contact me!
 
@@ -27,4 +28,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brittesz&layout=compact)
 </div>
 
-I'm a Science & Technology and Computer Science student, passionate about continuous learning in new technologies and languages
+
