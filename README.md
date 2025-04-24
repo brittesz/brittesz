@@ -1,7 +1,7 @@
 #### Hi, I'm Luiza Brittes Barros! ✨
 <p>aka Brittes or Luziafer </p>  
 <div style="display: inline_block">
-I'm a Science & Technology and Computer Science student, passionate about continuous learning in new technologies and languages
+I'm a Science & Technology and Computer Science student, passionate about continuous learning in new technologies and languages!
 
 ## Programing languages
 
