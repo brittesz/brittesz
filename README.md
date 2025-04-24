@@ -1,5 +1,5 @@
 #### Hi, I'm Luiza Brittes Barros! ✨
-
+aka Brittes or Luziafer
 <div style="display: inline_block">
 I'm a Science & Technology and Computer Science student, passionate about continuous learning in new technologies and languages
 
