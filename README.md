@@ -14,7 +14,7 @@ I'm a Science & Technology and Computer Science student, passionate about contin
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brittesz&layout=compact)
 
 ## Operational systems 🐱‍💻
 
